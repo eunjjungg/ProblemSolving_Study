@@ -108,7 +108,9 @@ key를 고정된 길이의 hash로 변경해주는 역할을 함. 이 과정을 
     }
     ```
     
-    레퍼런스
+    <br/>
+    
+    ### 레퍼런스
     
     [https://ratsgo.github.io/data structure&algorithm/2017/10/25/hash/](https://ratsgo.github.io/data%20structure&algorithm/2017/10/25/hash/)
     
