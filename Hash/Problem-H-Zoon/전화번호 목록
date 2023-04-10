@@ -1,0 +1,13 @@
+#전화번호 목록
+문제링크 : [https://school.programmers.co.kr/learn/courses/30/lessons/42577](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+
+```python
+#전화번호 전체를 정렬.
+#'접두어' 이기 때문에 만약 서로 접두어 관계라면 앞 뒤에 위치할것
+#이 둘을 서로의 최소 길이만큼 비교한다면 찾을 수 있음
+#이와 비슷하게 해시로 변경하고 최소 길이만큼 값을 찾는다면..?
+
+def solution(phone_book):
+
+    return answer
+```
