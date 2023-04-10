@@ -1,0 +1,14 @@
+#완주하지 못한 선수
+문제경로 : https://school.programmers.co.kr/learn/courses/30/lessons/42576
+
+
+```python
+# 1차원적으로 생각하면 두 배열을 순회 비교하면 되겠지만 그러면 시간복잡도가 너무 커짐.
+# 완주자는 도전자보다 항상 1 작음으로..
+# 해시에 도전자를 모두 넣고 완주자를 key로 찾기..?
+# 간단하게는 두 인자를 set 하여 서로 빼는 방법도 해볼만 하다고 생각.
+
+def solution(participant, completion):
+    answer = ''
+    return answer
+```
