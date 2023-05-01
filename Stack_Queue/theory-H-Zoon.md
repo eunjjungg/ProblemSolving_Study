@@ -1,5 +1,3 @@
-# Stack, Queue
-
 # Stack
 <p align="center">
     <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2F9a57f718-bdc2-4375-9760-f5c8ce12fb0f%2Fimage.png" height="300">
