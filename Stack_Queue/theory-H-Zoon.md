@@ -49,9 +49,7 @@ stack의 시간복잡도는 O(1)
 
 이를 FIFO (First In First Out, 선입선출) 구조라고 한다.
 
-데이터가 삽입되는 쪽을 rear(혹은 tail), 
-
-데이터가 제거되는 쪽은 front(혹은 head) 라고 한다.
+데이터가 삽입되는 쪽을 rear(혹은 tail), 데이터가 제거되는 쪽은 front(혹은 head) 라고 한다.
 
 스텍과 마찬가지로 데이터를 추가, 삭제하는 경우에는 queue의 상태(empty, full) 을 파악하고 진행하여야 한다.
 
