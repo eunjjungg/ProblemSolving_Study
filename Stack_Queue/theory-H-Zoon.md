@@ -1,8 +1,9 @@
 # Stack, Queue
 
 # Stack
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a3e34b5-bc3e-4d93-be20-c8293f44adbe/Untitled.png)
+<p align="center">
+    <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2F9a57f718-bdc2-4375-9760-f5c8ce12fb0f%2Fimage.png">
+</p>
 
 ### 특징
 
@@ -40,7 +41,9 @@ stack의 시간복잡도는 O(1)
 
 ## Queue
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c9f7ec2-3aa2-4708-9e5e-60b28cce9b1f/Untitled.png)
+<p align="center">
+    <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2F3244e9fd-82e5-4c52-bef4-dee97640e246%2Fimage.png">
+</p>
 
 ### 특징
 
@@ -74,7 +77,9 @@ BFS 알고리즘
 
 ## **Deque**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79b5ac07-015c-482f-9a04-936fb1dc4729/Untitled.png)
+<p align="center">
+    <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2Fc412c1f6-9cf2-4fe2-b1c6-b166e2a58c99%2Fimage.png">
+</p>
 
 ### 특징
 
@@ -112,8 +117,7 @@ index 를 통해 임의의 원소에 바로 접근이 가능하고, 새로운 �
 | --- | --- | --- | --- | --- |
 | Stack | FILO | O(1) | 데이터의 접근이 빠름  | 전체 데이터에 탐색하려면 모든 데이터를 꺼내면서 진행. |
 | Queue | FIFO | - | - | - |
-| Deque | 양방향 | - | 양방향 데이터 접근
-가변적 크기 | 중간에서의 삽입 삭제 어려움, 스택, 큐에 비해 구현 어려움. |
+| Deque | 양방향 | - | 양방향 데이터 접근, 가변적 크기 | 중간에서의 삽입 삭제 어려움, 스택, 큐에 비해 구현 어려움. |
 
 ---
 
