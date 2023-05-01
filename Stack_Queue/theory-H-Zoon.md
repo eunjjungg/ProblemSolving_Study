@@ -203,7 +203,11 @@ True
 2
 ```
 
-### 파이썬 Queue 추상 자료형
+### 파이썬 Queue
+
+파이썬으로 큐를 구현하는 방법은 대표적으로 두 가지가 있다. `list`를 사용하는 방법과 `queue 라이브러리`를 사용하는 방법이다.
+
+### 파이썬 Queue 구현하기
 
 - `Queue()`: 비어 있는 큐 생성. 생성작의 역할.
 - `enqueue(item)`: 새로운 항목을 꼬리(rear, tail)에 추가. 반환값 없음.
@@ -286,6 +290,39 @@ False
 2
 <<[8.4, True]>>
 ```
+
+## queue 라이브러리
+
+파이썬의 queue 라이브러리에는 앞에서 언급한대로 `Queue()`, `LifoQueue()`, `PriorityQueue()`가 존재한다.
+
+여기선 가장 기본적인 Queue() 사용법만 정리하기.
+
+### Queue()
+
+```
+import queue
+
+queue = queue.Queue()
+```
+
+요소를 추가할 때는 `put()`, 제거할 때는 `get()` 함수를 사용한다. 또한 `qsize()` 함수를 사용하면 큐의 크기, 요소의 개수를 알 수 있다.
+
+```
+queue.put(0)
+queue.put(1)
+queue.put(2)
+
+queue.get()
+
+queue.qsize()
+```
+
+```
+2
+```
+
+Queue()는 선입선출(FIFO) 구조이기 때문에, get() 함수를 수행할 경우, 가장 먼저 추가된 요소 `0`이 제거된다.
+
 
 ### 파이썬 Deque 추상 자료형
 
