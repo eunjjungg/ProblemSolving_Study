@@ -2,7 +2,7 @@
 
 # Stack
 <p align="center">
-    <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2F9a57f718-bdc2-4375-9760-f5c8ce12fb0f%2Fimage.png">
+    <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2F9a57f718-bdc2-4375-9760-f5c8ce12fb0f%2Fimage.png" height="300">
 </p>
 
 ### 특징
@@ -42,7 +42,7 @@ stack의 시간복잡도는 O(1)
 ## Queue
 
 <p align="center">
-    <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2F3244e9fd-82e5-4c52-bef4-dee97640e246%2Fimage.png">
+    <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2F3244e9fd-82e5-4c52-bef4-dee97640e246%2Fimage.png" height="300">
 </p>
 
 ### 특징
@@ -78,7 +78,7 @@ BFS 알고리즘
 ## **Deque**
 
 <p align="center">
-    <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2Fc412c1f6-9cf2-4fe2-b1c6-b166e2a58c99%2Fimage.png">
+    <img src = "https://velog.velcdn.com/images%2Fnnnyeong%2Fpost%2Fc412c1f6-9cf2-4fe2-b1c6-b166e2a58c99%2Fimage.png" height="300">
 </p>
 
 ### 특징
