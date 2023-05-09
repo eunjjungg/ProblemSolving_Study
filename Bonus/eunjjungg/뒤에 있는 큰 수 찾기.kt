@@ -5,6 +5,28 @@
 class P154539 {
     fun solution(numbers: IntArray): IntArray {
         var answer: IntArray = intArrayOf()
+        
+//        val stackNum = Stack<Int>()
+//        for (i in numbers.size - 1 downTo 0) {
+//            stackNum.push(numbers[i])
+//        }
+//
+//        var pivot: Int = stackNum.pop()
+//        while (stackNum.isNotEmpty()) {
+//            val answerList = stackNum.filter {
+//                it > pivot
+//            }
+//            if (answerList.isEmpty()) {
+//                answer.add(-1)
+//            } else {
+//                answer.add(answerList.last())
+//            }
+//            pivot = stackNum.pop()
+//
+//        }
+//
+//        answer.add(-1)
+        
         return answer
     }
 }
