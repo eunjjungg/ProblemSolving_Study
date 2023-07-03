@@ -1,0 +1,11 @@
+문제링크 : https://school.programmers.co.kr/learn/courses/30/lessons/86971
+
+```kotlin
+//
+class Solution {
+    fun solution(n: Int, wires: Array<IntArray>): Int {
+        var answer: Int = -1
+        return answer
+    }
+}
+```
