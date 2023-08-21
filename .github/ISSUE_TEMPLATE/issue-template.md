@@ -1,7 +1,7 @@
 ---
-name: "\U0001F4DA 정은정 - 23.08.12 ~ 23.08.25"
+name: Issue Template
 about: Problem Solving Study 1 week plan
-title: "[PLAN]"
+title: "[PLAN] \U0001F4DA 이름 - 23.xx.xx ~ 23.xx.xx"
 labels: ''
 assignees: ''
 
